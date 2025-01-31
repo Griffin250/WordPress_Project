@@ -15,4 +15,4 @@ wordpress/
 *.tmp
 
 #Ignore readme html files.
-./readme.html
+.readme.html
