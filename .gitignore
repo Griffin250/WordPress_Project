@@ -1,0 +1,15 @@
+# Ignore database storage
+sql-data/
+db_data/
+mysql/
+phpmyadmin/
+
+# Ignore WordPress core (optional, if using volume mounts)
+wordpress/
+
+# Ignore environment variables
+.env
+
+# Ignore logs and temporary files
+*.log
+*.tmp
