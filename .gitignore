@@ -13,3 +13,6 @@ wordpress/
 # Ignore logs and temporary files
 *.log
 *.tmp
+
+#Ignore readme html files.
+./readme.html
